@@ -1,4 +1,4 @@
-code in python
+#code n python
 import turtle
 import time
 import random
